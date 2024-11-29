@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Bs+VvNSL23uiHxdaFPMxhqTUpcWyeVEHNP4+TUtx34c=",
+  "Source": "BTBatteryLevelsServer",
+  "BasePath": "_content/BTBatteryLevelsServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

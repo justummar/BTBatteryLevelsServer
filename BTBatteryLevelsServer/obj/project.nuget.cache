@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0UONMzpUdQ=",
+  "success": true,
+  "projectFilePath": "d:\\OneDrive\\Documents\\Development\\BTBatteryLevelsServer\\BTBatteryLevelsServer\\BTBatteryLevelsServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ummar\\.nuget\\packages\\inthehand.bluetoothle\\4.0.37\\inthehand.bluetoothle.4.0.37.nupkg.sha512",
+    "C:\\Users\\ummar\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.54\\microsoft.windows.sdk.net.ref.10.0.19041.54.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows10.0.19041": {
+      "InTheHand.BluetoothLE/4.0.37": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows10.0.19041/InTheHand.BluetoothLE.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows10.0.19041/InTheHand.BluetoothLE.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InTheHand.BluetoothLE/4.0.37": {
+      "sha512": "+Rgh8N9UN0GZntL3ImsR9I4Kr8SH9EVj+q20RAl6IMFE87it652DxGE4iUIYqVbg+a3xDuyhW9CTqNW8v9lYLw==",
+      "type": "package",
+      "path": "inthehand.bluetoothle/4.0.37",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "32feet-package-icon.png",
+        "README.md",
+        "inthehand.bluetoothle.4.0.37.nupkg.sha512",
+        "inthehand.bluetoothle.nuspec",
+        "lib/monoandroid10.0/InTheHand.BluetoothLE.dll",
+        "lib/monoandroid10.0/InTheHand.BluetoothLE.xml",
+        "lib/net462/InTheHand.BluetoothLE.dll",
+        "lib/net462/InTheHand.BluetoothLE.xml",
+        "lib/net7.0-android33.0/InTheHand.BluetoothLE.aar",
+        "lib/net7.0-android33.0/InTheHand.BluetoothLE.dll",
+        "lib/net7.0-android33.0/InTheHand.BluetoothLE.xml",
+        "lib/net7.0-ios16.1/InTheHand.BluetoothLE.dll",
+        "lib/net7.0-ios16.1/InTheHand.BluetoothLE.xml",
+        "lib/net7.0-maccatalyst16.1/InTheHand.BluetoothLE.dll",
+        "lib/net7.0-maccatalyst16.1/InTheHand.BluetoothLE.xml",
+        "lib/net7.0-windows10.0.19041/InTheHand.BluetoothLE.dll",
+        "lib/net7.0-windows10.0.19041/InTheHand.BluetoothLE.xml",
+        "lib/net7.0/InTheHand.BluetoothLE.dll",
+        "lib/net7.0/InTheHand.BluetoothLE.xml",
+        "lib/net8.0-android34.0/InTheHand.BluetoothLE.dll",
+        "lib/net8.0-android34.0/InTheHand.BluetoothLE.xml",
+        "lib/net8.0-ios17.2/InTheHand.BluetoothLE.dll",
+        "lib/net8.0-ios17.2/InTheHand.BluetoothLE.xml",
+        "lib/net8.0-maccatalyst17.2/InTheHand.BluetoothLE.dll",
+        "lib/net8.0-maccatalyst17.2/InTheHand.BluetoothLE.xml",
+        "lib/net8.0-windows10.0.19041/InTheHand.BluetoothLE.dll",
+        "lib/net8.0-windows10.0.19041/InTheHand.BluetoothLE.xml",
+        "lib/net8.0/InTheHand.BluetoothLE.dll",
+        "lib/net8.0/InTheHand.BluetoothLE.xml",
+        "lib/netstandard2.0/InTheHand.BluetoothLE.dll",
+        "lib/netstandard2.0/InTheHand.BluetoothLE.xml",
+        "lib/uap10.0.17763/InTheHand.BluetoothLE.dll",
+        "lib/uap10.0.17763/InTheHand.BluetoothLE.pri",
+        "lib/uap10.0.17763/InTheHand.BluetoothLE.xml",
+        "lib/xamarinios10/InTheHand.BluetoothLE.dll",
+        "lib/xamarinios10/InTheHand.BluetoothLE.xml",
+        "lib/xamarintvos10/InTheHand.BluetoothLE.dll",
+        "lib/xamarintvos10/InTheHand.BluetoothLE.xml",
+        "lib/xamarinwatchos10/InTheHand.BluetoothLE.dll",
+        "lib/xamarinwatchos10/InTheHand.BluetoothLE.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows10.0.19041": [
+      "InTheHand.BluetoothLE >= 4.0.37"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ummar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OneDrive\\Documents\\Development\\BTBatteryLevelsServer\\BTBatteryLevelsServer\\BTBatteryLevelsServer.csproj",
+      "projectName": "BTBatteryLevelsServer",
+      "projectPath": "D:\\OneDrive\\Documents\\Development\\BTBatteryLevelsServer\\BTBatteryLevelsServer\\BTBatteryLevelsServer.csproj",
+      "packagesPath": "C:\\Users\\ummar\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Documents\\Development\\BTBatteryLevelsServer\\BTBatteryLevelsServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ummar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows10.0.19041"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows10.0.19041": {
+          "targetAlias": "net9.0-windows10.0.19041",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0-windows10.0.19041": {
+        "targetAlias": "net9.0-windows10.0.19041",
+        "dependencies": {
+          "InTheHand.BluetoothLE": {
+            "target": "Package",
+            "version": "[4.0.37, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.54, 10.0.19041.54]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref.Windows": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

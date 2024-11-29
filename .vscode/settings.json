@@ -1,0 +1,23 @@
+{
+    "dotnet.defaultSolution": "BTBatteryLevelsServer.sln",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#e547b1",
+        "activityBar.background": "#e547b1",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#a0df20",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#e547b1",
+        "statusBar.background": "#da1f9c",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#e547b1",
+        "statusBarItem.remoteBackground": "#da1f9c",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#da1f9c",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#da1f9c99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#da1f9c"
+}
